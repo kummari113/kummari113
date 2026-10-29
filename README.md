@@ -18,6 +18,12 @@ I'm a Computer Science Engineering student at **Samskruti College of Engineering
 
 ## 🚀 Projects
 
+### Exam Score Predictor
+A deployed web application for exam score prediction.
+
+- **Live demo:** [exam-score-predictor-one.vercel.app](https://exam-score-predictor-one.vercel.app)
+- **Status:** Deployed on Vercel
+
 ### NOVA — AI-powered Android Personal Assistant
 An in-development Android assistant project exploring a voice-first interaction flow.
 
