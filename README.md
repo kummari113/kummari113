@@ -18,8 +18,14 @@ I'm a Computer Science Engineering student at **Samskruti College of Engineering
 
 🚀 Projects
 
-NOVA — AI-powered Android Personal Assistant
-An in-development Android assistant project exploring a voice-first interaction flow.
+### Exam Score Predictor — Machine Learning Web Application
+An interactive web app that estimates exam scores from 19 student-related factors using a Linear Regression pipeline, FastAPI backend, and React + TypeScript frontend.
+
+- **Live demo:** https://exam-score-predictor-one.vercel.app/
+- **Source code:** https://github.com/kummari113/Exam-score-predictor
+- **Tech stack:** Python · Scikit-learn · FastAPI · React · TypeScript
+
+### NOVA — AI-powered Android Personal Assistant
 
 **Current focus**
 - Speech input and speech recognition
