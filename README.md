@@ -1,6 +1,6 @@
-# Hi, I'm Saikiran Kummari 👋
+Hi, I'm Saikiran Kummari 👋
 
-### Aspiring AI Engineer | Android Development | Generative AI
+Aspiring AI Engineer | Android Development | Generative AI
 
 I'm a Computer Science Engineering student at **Samskruti College of Engineering and Technology**, working toward building practical AI-powered applications.
 
@@ -9,22 +9,16 @@ I'm a Computer Science Engineering student at **Samskruti College of Engineering
 - 🎯 **Goal:** Grow as an AI Engineer by building useful projects and strengthening my software engineering fundamentals.
 - 🤝 **Interested in:** AI applications, Android development, and beginner-friendly open-source collaboration.
 
-## 🛠️ Technologies
+🛠️ Technologies
 
 - **Languages:** Kotlin, JavaScript
 - **Android:** Android Studio, Jetpack Compose
 - **AI integration:** Gemini API
 - **Currently exploring:** Voice-first assistant workflows and connecting mobile apps with AI models
 
-## 🚀 Projects
+🚀 Projects
 
-### Exam Score Predictor
-A deployed web application for exam score prediction.
-
-- **Live demo:** [exam-score-predictor-one.vercel.app](https://exam-score-predictor-one.vercel.app)
-- **Status:** Deployed on Vercel
-
-### NOVA — AI-powered Android Personal Assistant
+NOVA — AI-powered Android Personal Assistant
 An in-development Android assistant project exploring a voice-first interaction flow.
 
 **Current focus**
@@ -36,10 +30,8 @@ An in-development Android assistant project exploring a voice-first interaction 
 
 > NOVA is a work in progress. Features such as wake-word detection and device actions are future goals, not completed features.
 
-### Health Care Development
-A public JavaScript repository I'm developing. See the [repository](https://github.com/kummari113/health-care-development) for the current source code.
 
-## 📫 Connect
+📫 Connect
 
 - GitHub: [@kummari113](https://github.com/kummari113)
 - LinkedIn: [Saikiran Kummari](https://www.linkedin.com/in/saikiran-kummari-3ba57836b/)
